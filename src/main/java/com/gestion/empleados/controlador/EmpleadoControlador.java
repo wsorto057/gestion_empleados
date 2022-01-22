@@ -51,5 +51,10 @@ public class EmpleadoControlador {
 		Empleado empleadoActualizado= repositorio.save(empleado);
 		return ResponseEntity.ok(empleadoActualizado);
 	}
+	
+	//otra version de cambio de empleado
+	public void hola_mundo() {
+		System.out.println("hola_mundo");
+	}
 
 }
