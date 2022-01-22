@@ -79,5 +79,20 @@ public class EmpleadoControlador {
 	public void hola_mundo_7() {
 		System.out.println("hola_mundo");
 	}
+	
+	
+	// MAS CAMBIOS nueva rama
+	
+		public void hola_mundo_8() {
+			System.out.println("hola_mundo");
+		}
+		
+		public void hola_mundo_9() {
+			System.out.println("hola_mundo");
+		}
+		
+		public void hola_mundo_10() {
+			System.out.println("hola_mundo");
+		}
 
 }
